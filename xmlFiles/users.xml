@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--password is equal to username-->
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user type="admin" name="mounica">
+		<userID>1</userID>
+		<userName>mounicasykam</userName>
+		<firstName>Mounica</firstName>
+		<lastName>Sykam</lastName>
+		<userMailID>mounica.sykam@gmail.com</userMailID>
+		<userPhone>(416)-875-0039</userPhone>
+		<authentication>
+			<encryptedPW>32faa5be0e8a6a3c8be0a534e406d84d</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+		<user type="admin">
+		<userID>4</userID>
+		<userName>raymilkaur</userName>
+		<firstName>Raymil</firstName>
+		<lastName>Kaur</lastName>
+		<userMailID>raymil.kaur@gmail.com</userMailID>
+		<userPhone>(346)-724-9854</userPhone>
+		<authentication>
+			<encryptedPW>4b2f094f3ec56a563c54cdeaa835e9e7</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="admin">
+		<userID>5</userID>
+		<userName>satishaningi</userName>
+		<firstName>Satish</firstName>
+		<lastName>Aningi</lastName>
+		<userMailID>satish.aningi@gmail.com</userMailID>
+		<userPhone>(856)-789-2563</userPhone>
+		<authentication>
+			<encryptedPW>a9b7101f33d3e33dd03ac7ebe228041a</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>2</userID>
+		<userName>vitaliyb</userName>
+		<firstName>Vitaliy</firstName>
+		<lastName>Bulema</lastName>
+		<userMailID>vitaliy.bulema@gmail.com</userMailID>
+		<userPhone>(452)-845-9652</userPhone>
+		<authentication>
+			<encryptedPW>4a8aa3ec3611e0d59c84a6fd5d9cb1c1</encryptedPW> <!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>3</userID>
+		<userName>navjotkaur</userName>
+		<firstName>Navjot</firstName>
+		<lastName>Kaur</lastName>
+		<userMailID>navjoykaur@gmail.com</userMailID>
+		<userPhone>(685)-156-7851</userPhone>
+		<authentication>
+			<encryptedPW>478da1fc09483e489fa99cf959980694</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>6</userID>
+		<userName>rutujaraut</userName>
+		<firstName>Rutuja</firstName>
+		<lastName>Raut</lastName>
+		<userMailID>rutuja.raut@gmail.com</userMailID>
+		<userPhone>(651)-754-9624</userPhone>
+		<authentication>
+			<encryptedPW>48939e6e0d4ae8cb44fde65f05c64ead</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+</users>

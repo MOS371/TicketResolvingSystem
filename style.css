@@ -1,0 +1,45 @@
+*{
+  font-family:  'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+  width: 70%;
+  margin: auto;
+}
+.ticket, .message{
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 1px 1px 2px 1px lightgrey;
+}
+.badge, .ticket form input, .ticket form select {
+  padding: 5px;
+  display: inline-block;
+  background-color: lightcyan;
+  margin:0;
+  border: none;
+}
+.ticket-Resolved {
+  background-color: #b2dfdb;
+}
+.ticket-Pending {
+  background-color: #ffcdd2;
+}
+.ticket-On-going {
+  background-color: #c5cae9;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.message{
+  color: grey;
+}
+.message p{
+  color: black;
+}
+.message-box{
+  width: 100%;
+  min-height: 100px;
+}
+.ticket form{
+  display: inline-block;
+}
